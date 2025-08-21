@@ -2,7 +2,7 @@
 A modern **community reporting and management platform** designed to improve communication, transparency, and problem-solving within neighborhoods.
 
 ## 📸 Snapshots
-This repository contains of **screenshots only** — showcasing the platform’s interface and key features:  
+This repository contains of **screenshots only** - showcasing the platform’s interface and key features:  
 - 🔐 **Login & Security** – streamlined user authentication  
 [User Login](./screenshots/user_login.png)  
 [Admin Login](./screenshots/admin_login.png)
