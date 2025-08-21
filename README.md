@@ -22,7 +22,7 @@ This repository contains of **screenshots only** — showcasing the platform’s
 
 ## 🔒 Note
 The **source code is private**.  
-This repo exists as a **portfolio showcase**.
-All the remaining screenshots of the platform's functionality are in the folder.
+This repo exists as a **portfolio showcase**.  
+All the remaining screenshots of the platform's functionality are in the folder.  
 
 If you’d like to learn more about Hoodlink, feel free to connect with me. 
