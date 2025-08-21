@@ -9,7 +9,7 @@ This repository contains of **screenshots only** - showcasing the platform’s i
 
 - 📊 **Dashboard** - quick access to reports and notices  
 [User Dashboard](./screenshots/user_dashboard.png)  
-[Admin Dashboard](./screenshots/admin_dashboard.png)
+[Admin Dashboard](./screenshots/admin_dash.png)
 
 - 📝 **Report Management** - submit, track, and resolve community issues  
 [User Report](./screenshots/user_report2.png)  
